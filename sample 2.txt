@@ -1,0 +1,7 @@
+Meeting Date: 2025-07-19
+Attendees: Team
+
+- Riya was assigned the frontend setup
+- Backend API routes were discussed
+- Decided to use FastAPI for speed
+- Need summarization component ready by Sunday

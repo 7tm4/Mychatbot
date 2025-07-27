@@ -1,0 +1,7 @@
+Meeting Date: 2025-07-22
+Attendees: Riya, John, Asha
+
+- Discussed the new UI layout for Agentic Bot
+- John suggested using Tailwind for rapid styling
+- Asha to create component mockups by Friday
+- Riya will review the accessibility aspects next week

@@ -1,0 +1,7 @@
+Meeting Date: 2025-07-24
+Attendees: Team, Client X
+
+- Client emphasized export-to-Notion feature as priority
+- Suggested adding Slack integration for real-time team updates
+- Asked for summary clarity improvements
+- Riya to follow up with UI demo next meeting
